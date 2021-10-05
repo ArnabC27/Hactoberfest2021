@@ -1,3 +1,9 @@
+'''
+Rock Paper Scissor Game in Python using Tkinter
+Code By : Arnab Chakraborty
+Github : https://github.com/ArnabC27
+'''
+
 import random
 import tkinter as tk
 
